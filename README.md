@@ -9,13 +9,13 @@
 
 ---
 
-## 📋 Description
+## Description
 
 This Python quiz application was built as a portfolio project to demonstrate hands-on programming skills, especially in the context of IT certification preparation. While the structure and logic mirror what an actual CompTIA A+ certification quiz would be like, **the questions used in this version are not real exam questions** due to copyright restrictions. They are **sample placeholders** that can be swapped out with official content by authorized parties if needed.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Terminal + GUI modes
 - Select between **Core 1** and **Core 2**
@@ -26,7 +26,7 @@ This Python quiz application was built as a portfolio project to demonstrate han
 
 ---
 
-## 📦 Folder Structure
+## Folder Structure
 
 ```
 CompTIA_APlus_QuizApp/
@@ -40,7 +40,7 @@ CompTIA_APlus_QuizApp/
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 1. **Make sure you have Python 3 installed.**
 2. Navigate to the project folder in your terminal.
@@ -56,13 +56,13 @@ python3 compTIA_quiz_app.py
 
 ---
 
-## ✅ Example Use Case
+## Example Use Case
 
 This app could be used internally by educators or institutions for structuring practice material. Actual CompTIA content should be inserted only with proper licensing.
 
 ---
 
-## 🧠 Why this project?
+## Why this project?
 
 I built this as a Capstone-style portfolio project that:
 - Combines real certification structure with hands-on Python
@@ -73,12 +73,12 @@ I built this as a Capstone-style portfolio project that:
 
 ---
 
-## 🔐 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## ✨ Author
+## Author
 
-- GitHub: [Mira2720](https://github.com/Mira2720)
+** GitHub: [Mira2720](https://github.com/Mira2720)**
