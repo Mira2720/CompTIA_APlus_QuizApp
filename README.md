@@ -1,4 +1,4 @@
-# 🧠 CompTIA A+ Quiz Application
+# CompTIA A+ Quiz Application
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
